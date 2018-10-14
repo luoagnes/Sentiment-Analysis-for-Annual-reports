@@ -1,0 +1,70 @@
+I am pleased to present our annual report for the year ended 31 December 2015 to the shareholders.
+
+The Group s audited profit attributable to equity holders of the Company for the year ended 31 December 2015 was RMB28,806 million, an increase of 21% compared with the results for the previous year. Basic and diluted earnings per share for the year ended 31 December 2015 were RMB3.097 and RMB3.055 respectively.
+The Group s non-GAAP profit attributable to equity holders of the Company for the year ended 31 December 2015 was RMB32,410 million, an increase of 31% compared with the results for the previous year. Non-GAAP basic and diluted EPS for the year ended 31 December 2015 were RMB3.485 and RMB3.437 respectively.
+
+5 Annual Report 2015 
+Chairman s Statement 
+BUSINESS REVIEW AND OUTLOOK 1. Internet Industry Trends In 2015, the Internet further penetrated everyday life, providing users with new value and additional convenience.
+Messaging and social networking continued to rank as the highest time spent and widest penetration activities on smart phones, and evolved into increasingly relevant content discovery media. Search queries moved primarily to mobile, and search remained an important content discovery tool, along with application stores. Online shopping became increasingly widespread, especially in lower-tier cities, and eCommerce transaction volumes sustained healthy growth rates. Online advertising activity shifted decisively from PC to mobile, with particular growth in areas such as performance advertising on social networks, pre-roll advertising in video services, and in-feed advertising in news services. Users proved increasingly willing to pay for digital content such as movies, TV series, and music. MidHard-core smart phone games, including PC game franchises moving to smart phones, boosted game industry revenue.
+China Internet companies in sectors such as ride-hailing, classified listings, group-buying, and online travel services competed with heightened intensity in 2015, leading to rapid user growth but reduced or negative profitability.
+Consequently, several leading companies in these sectors consolidated with competitors, creating a wave of merger and acquisition activities. Offline-to-Online transaction volumes increased, which, together with the emergence of person-to- person payment transactions, contributed to substantial growth in online payment volumes.
+
+2. Company Strategic Highlights In 2015, we conducted a series of initiatives to enhance our ongoing businesses in China: Social platforms: we sustained user growth of Mobile QQ year-on-year, particularly among young users, via promoting entertainment-driven and community-based activities, while expanding the user base of Weixin, via connecting a diversified product and service portfolio to a broad range of users. Our performance-based social advertising revenues more than doubled year-on-year.
+Online games: we reinforced our leadership in the smart phone game market via introducing new titles based on proven IP, adding new game genres, leveraging our PC client game operational expertise, and developing player 
+Media & content: we sustained traffic leadership in multiple online media categories, such as video, sports, music, news and literature, via partnering with premium content providers, such as the NBA, HBO, Paramount, Warner Music, and Sony Music, and investing in original content. We grew our digital content subscription services via leveraging our social platforms and optimizing our premium business models.
+
+Tencent Holdings Limited 6 
+Chairman s Statement 
+During the year, we further executed our Connection strategy, bringing our own and our partners products and services to our consumers via cultivating an ecosystem around our core communication and social platforms. Key initiatives for our Internet-Plus ecosystem included: Enriching products and services available within our platforms. For example, we introduced personal micro-loan products and municipal services, such as visa applications, to Mobile QQ and Weixin.
+Promoting our online payment services through enriched payment scenarios, increasing MAU of our mobile payment services by over 7 times year-on-year.
+Growing our mobile utility services, including security, browser and application store, strengthening infrastructural supports to our mobile ecosystem.
+Investing in equity stakes in leading companies in related Internet verticals, such as Internet Plus Holdings, to provide best-in-class services to our users.
+
+3. Company Divisional and Product Highlights 
+(in millions, unless specified) 
+MAU of QQ 853.1 815.3 4.6% 859.7 -0.8% Smart device MAU of QQ 641.5 576.1 11.4% 639.1 0.4% PCU of QQ (for the quarter) 241.1 217.4 10.9% 239.1 0.8% Combined MAU of Weixin and WeChat 697.0 500.0 39.4% 649.5 7.3% MAU of Qzone 640.1 654.1 -2.1% 653.1 -2.0% Smart device MAU of Qzone 572.9 539.8 6.1% 576.8 -0.7% Fee-based VAS registered subscriptions 94.6 83.7 13.0% 88.5 6.9% 
+For QQ, smart device MAU increased by 11% year-on-year to 642 million at the end of 2015, while overall PCU increased by 11% year-on-year to 241 million. QQ Group user engagement benefited from a revenue- sharing scheme introduced to incentivize group creators. Our QQ Wallet payment service gained popularity with approximately 6 billion red envelopes exchanged via QQ Wallet within six days during the Lunar New Year holidays in early 2016.
+
+7 Annual Report 2015 
+Chairman s Statement 
+For Qzone, smart device MAU increased by 6% year-on-year to 573 million at the end of 2015. User activity benefited from enhanced features in areas such as sticker sharing and photo album editing.
+For Weixin and WeChat together, MAU reached 697 million at the end of 2015, representing year-on-year growth of 39%. Official Accounts became a leading platform connecting users to content creators, merchants and advertisers. Weixin Pay also became increasingly popular. The volume of red envelopes exchanged via Weixin Pay exceeded 32 billion within six days during the Lunar New Year holidays in early 2016, growing by 9 times year-on- 
+With increasing popularity of Weixin Pay, bank handling fees related to C2C payment transactions via Weixin Pay, mainly arising from money transfers, increased significantly, amounting to over RMB300 million (net of related revenue we received from users) for the month of January 2016. To manage these cost pressures, we introduced a new policy with effect from 1 March 2016. Under this new policy, we charge users Weixin Pay balance withdrawal fees if the accumulated amount of money a user withdraws from her Weixin Pay wallet to her bank account exceeds a certain amount. In parallel, we no longer charge users on Weixin Pay C2C money transfers. We will continue to promote Weixin Pay via encouraging users to consume products and services embedded in Weixin, as well as those provided by our online and offline partners.
+
+In 2015, our social networks business achieved 30% year-on-year revenue growth as we improved our digital content subscription services, QQ Membership subscription services, and virtual item sales. Looking forward, we will continue to optimize our user experience and add premium content to our subscription services, such as video and music, and to our literature service.
+In online games, we extended our market leadership in both PC client game and smart phone game markets.
+For PC client games, we achieved low double-digit year-on-year revenue growth thanks to increased contributions from key titles and new games launched in 2015.
+For smart phone games, we generated 53% year-on-year revenue growth on a gross-to-gross basis, with approximately RMB21.3 billion revenue in 2015. We achieved or retained leadership in multiple genres via utilizing proven IPs, extending popular PC game genres to smart phones, and developing player communities.
+Looking forward, we aim to broaden smart phone game activity in China into new game genres, following the precedent of our category expansion in PC games.
+Our cloud service business achieved over 100% year-on-year revenue growth as we promoted our services to key enterprise customers from a range of verticals such as eCommerce, O2O services, online games, online video and Internet finance. We will continue investing in enhancing our cloud services, supporting our private and public sector partners in fulfilling their Internet-Plus related initiatives.
+
+Tencent Holdings Limited 8 
+Chairman s Statement 
+In 2015, our online advertising business achieved 110% year-on-year revenue growth, mainly reflecting an enlarged advertiser base and more traffic on our platforms. Over 65% of our total advertising revenues was generated on mobile platforms during the year.
+Looking ahead, we will continue to invest in our brand advertising business, while aiming to grow our performance-based advertising business via: Enhancing advertiser tools, such as self-service advertising platforms and location-based targeted advertising 
+Leveraging new advertising formats, such as auto-play video on Weixin Moments and eCoupons on Official 
+Customizing advertising solutions for specific advertiser categories.
+
+4. Company Financial Performance Year Ended 31 December 2015 In 2015, revenues increased by 30% to RMB102.9 billion. Excluding the eCommerce business, revenues increased by 38% to RMB102.2 billion.
+VAS. Revenues from our VAS business increased by 27% to RMB80.7 billion. Our online game business achieved healthy growth in revenues, mainly driven by smart phone games, key PC titles and new PC client games launched in 2015. Our social networks revenues expanded, reflecting increased contributions from digital content subscription services, QQ Membership subscription services, and virtual item sales.
+Online advertising. Revenues from our online advertising business increased by 110% to RMB17.5 billion.
+Performance-based advertising revenues grew by 172% to RMB8.7 billion, mainly driven by revenue growth from Mobile Qzone, the full year impact of advertising revenues from Weixin Official Accounts, as well as contributions from newly launched advertising services on Weixin Moments. Brand display advertising revenues grew by 72% to RMB8.8 billion, mainly driven by increased traffic and advertising on mobile media platforms such as Tencent Video and Tencent News.
+Profit attributable to equity holders of the Company increased by 21% to RMB28.8 billion. Non-GAAP profit attributable to equity holders of the Company increased by 31% to RMB32.4 billion.
+
+9 Annual Report 2015 
+Chairman s Statement 
+Fourth Quarter of 2015 In the fourth quarter of 2015, revenues increased by 45% year-on-year to RMB30,441 million. Excluding the eCommerce transactions business, revenues increased by 47% year-on-year to RMB30,242 million.
+VAS. Revenues from our VAS business increased by 35% year-on-year to RMB23,068 million. Our online game business achieved healthy growth in revenues, primarily driven by our expanded smart phone game portfolio, our major PC titles and new PC client games launched in 2015. Our social networks revenues grew by 37% to RMB7,097 million, reflecting revenue growth from digital content subscription services, QQ Membership subscription services, and item sales within our social networking platforms.
+Online advertising. Revenues from our online advertising business increased by 118% year-on-year to RMB5,733 million. Performance-based advertising revenues grew by 157% to RMB2,916 million, mainly reflecting revenue growth from Mobile Qzone, Weixin Official Accounts, and newly launched advertising services on Weixin Moments.
+Brand display advertising revenues grew by 89% to RMB2,817 million, reflecting higher contributions from our mobile media platforms such as Tencent Video and Tencent News.
+Profit attributable to equity holders of the Company increased by 22% year-on-year to RMB7,164 million. Non-GAAP profit attributable to equity holders of the Company increased by 28% year-on-year to RMB8,953 million.
+
+5. Company Outlook and Strategies for 2016 During 2016, we intend to develop our ongoing businesses and further cultivate our mobile ecosystem via initiatives 
+Investing in and innovating around our core communications and social platforms, especially in areas such as group messaging and video-format content; Developing new and emerging smart phone game genres, via leveraging our PC game experiences, smart phone game player communities, and relationships with leading game developers; Expanding our advertising business, via enhancing our advertising technologies, such as data-mining and look- alike user targeting, enlarging our long-tail advertiser base, and adding more mobile advertising inventory; Growing our digital content businesses, including online video, music and literature, via providing exclusive content to our users and leveraging our users social relationships; and Enriching our payment services and financial products platform.
+
+Tencent Holdings Limited 10 
+Chairman s Statement 
+The Board has recommended the payment of a final dividend of HKD0.47 per share (2014: HKD0.36 per share) for the year ended 31 December 2015, subject to the approval of the shareholders at the 2016 AGM. Such proposed dividend will be payable on 2 June 2016 to the shareholders whose names appear on the register of members of the Company on 25 May 
+On behalf of the Board, I would like to express our sincere gratitude to our hard-working employees and management team to carry out the Group s strategy with outstanding professionalism, integrity and dedication. I would also like to thank all our shareholders and stakeholders for their continued trust and confidence. We will strive to continue to enhance people s quality of life through products and services provided by us and our partners.
+
