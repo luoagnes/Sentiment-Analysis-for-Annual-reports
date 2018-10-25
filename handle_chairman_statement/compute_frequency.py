@@ -1,10 +1,12 @@
-import os
+#!-*- coding:utf8 -*-
+"""
+统计每一个年报中的negative， positive， total， global四个类别上的总词频数。
+"""
 import json
+from config import Fre_count_dict_path, bow_word_vector_suffix, bow_word_vector_dict_path,doc_length_path
 
-root_pos='word_dict/Positive/'
-root_neg='word_dict/Negative/'
-root_global='word_dict/Global/'
-root_list=[root_pos, root_neg, root_global]
+
+root_dict={'g':'global', 'p':'pos', 'n':'neg'}
 
 
 def save_json(data, path):
@@ -16,36 +18,24 @@ def save_json(data, path):
 
 def compute_freq():
     result={}
-    for path in root_list:
-        files=os.listdir(path)
+    total_num_dict=json.loads(open(doc_length_path, 'r').read())
+    for k in root_dict.keys():
+        path=bow_word_vector_dict_path+k+bow_word_vector_suffix
+        senti_num_dict=json.loads(open(path, 'r').read())
+        for key in senti_num_dict.keys():
+            if key not in result.keys():
+                result[key]={}
 
-        cate=path.split('/')[1]
-    
-        for f in files:
-            k=f[:10]
-            if k not in result.keys():
-                result[k]={}
-                result[k][cate]=0
-        
-            num=0
-            w_dict=json.loads(open(path+f, 'r').read())
-            for w in w_dict.keys():
-                num +=w_dict[w]
-            result[k][cate]=num
-    
-    total_num_path='result/docLength_all.txt'
-    freq_dict=json.loads(open(total_num_path, 'r').read())
-    for key in freq_dict.keys():
-        result[key]['total']=freq_dict[key]
-    save_json(result, 'result/freq_count.txt')
+            result[key][root_dict[k]]=sum(senti_num_dict[key])
+
+    for key in total_num_dict.keys():
+        if key not in result.keys():
+            result[key]={}
+
+        result[key]['total']=total_num_dict[key]
+
+    save_json(result, Fre_count_dict_path)
 
 
 if __name__=='__main__':
     compute_freq()
-
-
-
-
-
-            
-        

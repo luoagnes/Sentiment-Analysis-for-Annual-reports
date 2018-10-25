@@ -18,6 +18,15 @@ word_vector_root='../interim_data/word_vector/' # 存储词向量的根目录
 one_hot_word_vector_dict_path='../interim_data/word_vector/onehot_word_vector/'  # one hot 形式的词向量
 bow_word_vector_dict_path='../interim_data/word_vector/bow_word_vector/'  # bag of word 形式的词向量
 bow_delta_tone_dict_path='../interim_data/word_vector/bow_delta_tone/' #使用bag of word形式词向量计算的delta tone
+bow_word_vector_suffix='_bow_vector_dict.txt'
+
+# 统计数据
+Fre_count_dict_path='../interim_data/experimental_1_Effectiveness/senti_word_freq.txt'
+a='result/ab_positive_words_differ.txt'
+b='result/ab_negative_words_differ.txt'
+
+c='result/ab_differ_senti_words_count.csv'
+d='result/differ_senti_words_count.xls'
 
 
 
